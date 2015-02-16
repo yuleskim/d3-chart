@@ -1,0 +1,101 @@
+{
+  "name": "Andre Ethier",
+  "position": "OF",
+  "club": "Los Angeles Dodgers",
+  "height": "6'2",
+  "weight": 205,
+  "dob": "4-10-82",
+  "stats": [
+      {
+          "year": "2006",
+          "club": "Los Angeles Dodgers",
+          "G": 126,
+          "AB": 396,
+          "R": 50,
+          "H": 122,
+          "2B": 20,
+          "3B": 7,
+          "HR": 11,
+          "RBI": 55,
+          "AVG": 0.308
+      },
+      {
+          "year": "2007",
+          "club": "Los Angeles Dodgers",
+          "G": 153,
+          "AB": 447,
+          "R": 50,
+          "H": 127,
+          "2B": 32,
+          "3B": 2,
+          "HR": 13,
+          "RBI": 64,
+          "AVG": 0.284
+      },
+      {
+          "year": "2008",
+          "club": "Los Angeles Dodgers",
+          "G": 141,
+          "AB": 525,
+          "R": 90,
+          "H": 160,
+          "2B": 38,
+          "3B": 5,
+          "HR": 20,
+          "RBI": 77,
+          "AVG": 0.305
+      },
+      {
+          "year": "2009",
+          "club": "Los Angeles Dodgers",
+          "G": 160,
+          "AB": 596,
+          "R": 92,
+          "H": 162,
+          "2B": 42,
+          "3B": 3,
+          "HR": 31,
+          "RBI": 106,
+          "AVG": 0.272
+      },
+      {
+          "year": "2010",
+          "club": "Los Angeles Dodgers",
+          "G": 139,
+          "AB": 517,
+          "R": 71,
+          "H": 151,
+          "2B": 33,
+          "3B": 1,
+          "HR": 23,
+          "RBI": 82,
+          "AVG": 0.292
+      },
+      {
+          "year": "2011",
+          "club": "Los Angeles Dodgers",
+          "G": 135,
+          "AB": 487,
+          "R": 67,
+          "H": 142,
+          "2B": 30,
+          "3B": 0,
+          "HR": 11,
+          "RBI": 62,
+          "AVG": 0.292
+      },
+      {
+          "year": "2012",
+          "club": "Los Angeles Dodgers",
+          "G": 149,
+          "AB": 556,
+          "R": 79,
+          "H": 158,
+          "2B": 36,
+          "3B": 1,
+          "HR": 20,
+          "RBI": 89,
+          "AVG": 0.284
+      }
+    ]
+  }
