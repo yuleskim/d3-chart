@@ -1,4 +1,6 @@
-
+.chart {
+	height: 500px;
+}
 
 .bar {
   fill: steelblue;
